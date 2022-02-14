@@ -1,0 +1,23 @@
+{
+  "name": "20220214",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cho112/20220214.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cho112/20220214/issues"
+  },
+  "homepage": "https://github.com/cho112/20220214#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nunjucks": "^3.2.3"
+  }
+}
